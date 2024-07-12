@@ -1,6 +1,7 @@
-# Furkan Nazım Gür - Hakkımda 👨‍💻
-
-Merhaba! Ben Furkan Nazım Gür, Bartın Üniversitesi Yönetim Bilişim Sistemleri öğrencisiyim ve çeşitli alanlarda kendimi geliştirmeye devam ediyorum. İş hayatına küçük yaşta tatlıcılık yaparak başladım ve şu anda web tasarımı, veri bilimi ve yazılım geliştirme gibi alanlarda aktif olarak çalışıyorum. 
+[![MasterHead](https://t3.ftcdn.net/jpg/06/15/76/92/360_F_615769239_P34b7w4Tc2rHBIU87bV3OCsAinGaX1EL.jpg)
+ # Furkan Nazım Gür - Hakkımda 👨‍💻
+                                                            
+ Merhaba! Ben Furkan Nazım Gür, Bartın Üniversitesi Yönetim Bilişim Sistemleri öğrencisiyim ve çeşitli alanlarda kendimi geliştirmeye devam ediyorum. Web tasarımı, veri bilimi ve bilişim teknolojileri gibi alanlarda aktif olarak çalışıyorum. 
 
 ## 🚀 Hakkımda
 
@@ -13,7 +14,7 @@ Merhaba! Ben Furkan Nazım Gür, Bartın Üniversitesi Yönetim Bilişim Sisteml
   - **3D Modelleme:** ZBrush
   - **Ofis Uygulamaları:** Microsoft Office (Word, Excel, PowerPoint, Access)
   - **Video Düzenleme:** Camtasia Studio 8
-  - **3D Baskı:** Ultimaker Cura
+  - **3D Baskı:** Ultimaker Cura,Zbrush,Blender
   - **Görsel Tasarım:** Adobe Photoshop
 
 ## 🛠️ Tecrübelerim
