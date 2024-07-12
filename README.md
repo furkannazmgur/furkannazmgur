@@ -4,7 +4,7 @@ Merhaba! Ben Furkan Nazım Gür, Bartın Üniversitesi Yönetim Bilişim Sisteml
 
 ## 🚀 Hakkımda
 
-- 🌍 **Lokasyon:** Bursa, Küçükbalıklı
+- 🌍 **Lokasyon:** Bursa, Osmangazi
 - 🎓 **Eğitim:** Bartın Üniversitesi, Yönetim Bilişim Sistemleri
 - 💻 **Becerilerim:**
   - **Programlama Dilleri:** C, Delphi
