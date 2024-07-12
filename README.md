@@ -9,7 +9,7 @@ Merhaba! Ben Furkan Nazım Gür, Bartın Üniversitesi Yönetim Bilişim Sisteml
 - 💻 **Becerilerim:**
   - **Programlama Dilleri:** C, Delphi
   - **Web Teknolojileri:** HTML, CSS
-  - **Veri Analizi:** SPSS
+  - **Veri Analizi:** SPSS,SQL
   - **3D Modelleme:** ZBrush
   - **Ofis Uygulamaları:** Microsoft Office (Word, Excel, PowerPoint, Access)
   - **Video Düzenleme:** Camtasia Studio 8
