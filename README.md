@@ -51,6 +51,7 @@ ZBrush kullanarak detaylı ve estetik 3B modeller oluşturuyorum. Her bir eserim
 ## 📫 Bana Ulaşın
 - **GitHub:** [furkannazmgur](https://github.com/furkannazmgur)
 - **E-posta:** fng1661gr@gmail.com
+- **Web Site:** https://furkannazmgur.github.io/
 
 Her bir tecrübem, beni şu anki ben yapan benzersiz birer yapı taşı oldu. Her işten aldığım dersler, hem profesyonel hem de kişisel hayatımda bana rehberlik ediyor ve geleceğe daha sağlam adımlarla ilerlememi sağlıyor. GitHub profilimi inceleyerek projelerim ve çalışmalarım hakkında daha fazla bilgi edinebilirsiniz.
 
